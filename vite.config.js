@@ -5,4 +5,4 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   base:"https://JvMagri18.github.io/List_react_Vite"
-})
+});
